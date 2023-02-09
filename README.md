@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shantanu-Khonde
-- 👀 I’m interested in Web Development & Cyber SEcurity.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Front end development.
 - 💞️ I’m looking to collaborate on Open Source Development.
 - 📫 reach me at shantanukhonde01@gmail.com 
