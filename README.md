@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Front end development.
 - 💞️ I’m looking to collaborate on Open Source Development.
-- 📫 reach me at shantanukhonde01@gmail.com 
+- 📫 reach me at https://bio.link/shantanu1g
 
 <!---
 Shantanu-Khonde/Shantanu-Khonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
